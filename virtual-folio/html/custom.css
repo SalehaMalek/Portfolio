@@ -1,0 +1,9 @@
+#home{
+    background-image: url(BG.jpg);
+    
+    background-size: cover;
+}
+ct{
+    color: white;
+    background-color: black;
+}
